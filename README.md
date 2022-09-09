@@ -18,7 +18,7 @@ Projeto desenvolvido como prática de VueJs e Typescript e utilização do Pinia
 
 - [Vue 3](https://github.com/vuejs/vue-next) 
 
-- [Pinia](https://pinia.vuejs.org/ - State Management 
+- [Pinia](https://pinia.vuejs.org/) - State Management 
 
 - [VueRouter](https://router.vuejs.org/) - Rotas Separadas
 
